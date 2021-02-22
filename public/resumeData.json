@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name":"Shine Abraham",
+    "description":"taking small steps towards a brighter future",
+    "image":"profilepic.jpg",
+    "bio":"I’m an engineer trying to solve real world problems using technology. I've worked as a team of one, where I did everything from start to finish as well as on large teams with a specific role. I pride myself in being flexible and keeping an open mind for each project’s best solution.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "shineabraham101@gmail.com",
+    "phone": "0091-8157994555",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Kadavanthra",
+      "city":"Kochi",
+      "state":"Kerala",
+      "zip": "682020"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/15rIwpxhah9yPqOhlj3CG8QlDBhKn0Qga/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/shineabraham101/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/shineabraham101",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shineabraham/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/shineabraham/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/shineabraham",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Over the years, I have been very experimental and took up projects which demand vivid variety of skills.",
+    "education":[
+      {
+        "school":"Amal Jyothi college of engineering",
+        "degree":"Co-founded a service based startup and finally graduated.",
+        "graduated":"August 2019",
+        "description":"Participated and won in multiple All Kerala Hackathons. Later got into a Real Time Location Services based startup."
+      },
+      {
+        "school":"Indian School Sohar",
+        "degree":"My most valuable school experiences weren't academic.",
+        "graduated":"March 2015",
+        "description":"Head boy of the school, Led and Managed a council of 28 members in organising various school events. School Football team captain for CBSE Oman Clusters 2013-2015"
+      }
+    ],
+    "work":[
+      {
+        "company":"Agreefy",
+        "title":"Research and Development engineer",
+        "years":"July 2019 - Present",
+        "description":"Built the early MVP of product Flux. Handled RTLS integrations with multiple platforms and added features to existing products. Designed UI and wireframe for a new product based on digital signage. Built an alternative to Amazon Web Services rekognition and balanced server load using AWS load balancers. Built and implemented socket server for real time data. Developed chatbot using botpress(open source) and Google Dialogflow "
+      },
+      {
+        "company":"I/Odev",
+        "title":"Co-founder and technical team lead",
+        "years":"December 2017 - December 2019",
+        "description":"Built a mobile rescue app along with my colleagues at I/O Developers called 'Kerala Rescue' and helped rescue 50+ stranded people from their flooded homes in 2018 Kerala floods. Built a post disaster web portal 'ForMyKerala' in association with goonj where we helped in the distribution of the supplies provided by goonj to the needful people. Worked in a team to Build school management mobile app and dashboard for a client based in GCC."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Amazon Web Services",
+        "level":"75%"
+      },
+      {
+        "name":"Machine Learning",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"75%"
+      },
+      {
+        "name":"Javascript",
+        "level":"75%"
+      },
+      {
+        "name":"RTLS integrations",
+        "level":"75%"
+      },
+      {
+        "name":"Socket Servers",
+        "level":"60%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"Chatbot Development",
+        "level":"65%"
+      },
+      {
+        "name":"Website Development",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
