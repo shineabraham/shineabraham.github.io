@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Shine Abraham",
-    "description":"taking small steps towards a brighter future",
+    "description":"I build things for the web",
     "image":"profilepic.jpg",
     "bio":"I’m an engineer trying to solve real world problems using technology. I've worked as a team of one, where I did everything from start to finish as well as on large teams with a specific role. I pride myself in being flexible and keeping an open mind for each project’s best solution.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -50,15 +50,18 @@
     "education":[
       {
         "school":"Amal Jyothi college of engineering",
-        "degree":"Co-founded a service based startup and finally graduated.",
+        "degree":"Bachelor of technology - Computer Science",
         "graduated":"August 2019",
-        "description":"Participated and won in multiple All Kerala Hackathons. Later got into a Real Time Location Services based startup."
+        "description":"Participated and won in multiple All Kerala Hackathons. Later got into a Real Time Location Services based startup Agreefy",
+        "description1":"Hosted inter college Counter-Strike: GO tournament, Played Center Forward in multiple football tournaments in college ",
+        "description2":"Co-founded a service based startup IOdevs and worked with multiple clients to develop websites and android apps in flutter"
       },
       {
         "school":"Indian School Sohar",
         "degree":"My most valuable school experiences weren't academic.",
         "graduated":"March 2015",
-        "description":"Head boy of the school, Led and Managed a council of 28 members in organising various school events. School Football team captain for CBSE Oman Clusters 2013-2015"
+        "description":"Head boy of the school, Led and Managed a council of 28 members in organising various school events",
+        "description1":"School Football team captain for CBSE Oman Clusters 2013-2015"
       }
     ],
     "work":[
@@ -66,13 +69,26 @@
         "company":"Agreefy",
         "title":"Research and Development engineer",
         "years":"July 2019 - Present",
-        "description":"Built the early MVP of product Flux. Handled RTLS integrations with multiple platforms and added features to existing products. Designed UI and wireframe for a new product based on digital signage. Built an alternative to Amazon Web Services rekognition and balanced server load using AWS load balancers. Built and implemented socket server for real time data. Developed chatbot using botpress(open source) and Google Dialogflow "
+        "description":"Built the product Flux from scratch and scaled it from early MVP to production grade. Flux is one among the four products of the company which uses Meraki MV series cameras to track people at venues and identify their movement pattern. It helps to show insights about the people visiting the venue. Built using Python, FLASK, AWS Lambdas, SQS, CloudWatch. It uses machine learning model to identify humans from images received using the meraki MV32 series cameras.",
+        "description1":"Built and integrated Brickstream FLIR cameras to identify flow of people in crowded venues like malls, exhibition centers, office spaces. The dashboard view gives insight of the flow of people and live people count in and out of the venue.",
+        "description2":"Simulated, deployed and integrated Quuppa Real time location system to track people in venues with nearly 15cm accuracy.",
+        "description3":"Built core functionality of tracking vehicles using Teltonika devices to track vehicles in a fleet and see them live in our dashboard. Integrated GPS tracking, speed and fuel efficiency monitoring, and other basic alerts to manage fleet of vehicles.",
+        "description4":"Built and integrated a chatbot to AGREEQ ( Agreefy Queue management system ) so as to enable an easy conversational booking system in websites or mobile apps. Developed the chatbot using opensource Botpress.",
+        "description5":"Handled integrations of our product TRACKX with SAP and Oracle EBS enabling easy integrations for clients using SAP or EBS for employee/asset management.",
+        "description6":"Helped in building the software architecture for a new product 'Vision' based on digital signage. Also helped building the product in the initial phase, drew wireframes and UI for the product. Took presentations on the increasing demand of digital signage and proposed a business model for the product."        
       },
       {
         "company":"I/Odev",
         "title":"Co-founder and technical team lead",
         "years":"December 2017 - December 2019",
-        "description":"Built a mobile rescue app along with my colleagues at I/O Developers called 'Kerala Rescue' and helped rescue 50+ stranded people from their flooded homes in 2018 Kerala floods. Built a post disaster web portal 'ForMyKerala' in association with goonj where we helped in the distribution of the supplies provided by goonj to the needful people. Worked in a team to Build school management mobile app and dashboard for a client based in GCC."
+        "description1":"Built a mobile rescue app along with my colleagues at I/O Developers called 'Kerala Rescue' and helped rescue 50+ stranded people from their flooded homes in 2018 Kerala floods",
+        "description":"Worked in a team to Build school management mobile app and dashboard for a client based in GCC."
+      },
+      {
+        "company":"Veeras Infotek Private Limited",
+        "title":"Intern",
+        "years":"Jun 2018 - July 2018",
+        "description":"Got a global exposure of the work culture in the GCC. Helped in a lot of realisations in the field of business management. Took presentations and actively communicated with diverse clients as part of relationship building and networking."
       }
     ],
     "skills":[
@@ -147,12 +163,6 @@
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   }
