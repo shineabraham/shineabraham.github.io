@@ -26,7 +26,7 @@ class Contact extends Component {
             </div>
 
             <div className="ten columns">
-
+                  <h2 className="contact-header">Contact me</h2>
                   <p className="lead">{message}</p>
 
             </div>
@@ -34,7 +34,7 @@ class Contact extends Component {
          </div>
 
          <div className="row">
-            <div className="eight columns">
+            {/* <div className="eight columns">
 
                <form action="" method="post" id="contactForm" name="contactForm">
 					<fieldset>
@@ -72,19 +72,22 @@ class Contact extends Component {
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
-           </div>
+           </div> */}
 
-
+                  <div>
+                     <button className="submit" ><a href="mailto:shineabraham101@gmail.com">Reach out</a></button>
+                  </div>
             <aside className="four columns footer-widgets">
+               
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   {/* <h4>Address and Phone</h4>
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span>
-					   </p>
+					   </p> */}
 				   </div>
 
                {/* <div className="widget widget_tweets">

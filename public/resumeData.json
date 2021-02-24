@@ -4,7 +4,7 @@
     "description":"I build things for the web",
     "image":"profilepic.jpg",
     "bio":"I’m an engineer trying to solve real world problems using technology. I've worked as a team of one, where I did everything from start to finish as well as on large teams with a specific role. I pride myself in being flexible and keeping an open mind for each project’s best solution.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!",
     "email": "shineabraham101@gmail.com",
     "phone": "0091-8157994555",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
@@ -25,7 +25,7 @@
       },
       {
         "name":"twitter",
-        "url":"https://twitter.com/shineabraham101",
+        "url":"https://twitter.com/shineabraham101ç",
         "className":"fa fa-twitter"
       },
       {
@@ -141,28 +141,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Agreefy Flux",
+        "category":"Agreefy Flux is a multi-technology platform which analyzes activity on your site, making crowd management and indoor wayfinding simple.",
+        "image":"flux-img.svg",
+        "url":"https://www.agreefy.com/product/flux-best-visitor-counting-solution"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Gesture controlled gaming",
+        "category":"Operate a game through gestures and movement using OpenCV",
+        "image":"shine-gesture-gaming.jpg",
+        "url":"https://github.com/shineabraham/GestureGamingControls-Opencv"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"wrld3d javascript",
+        "category":"A dynamic 3D mapping platform for smart cities and buildings, gaming, AR/VR experiences.",
+        "image":"Wrld3d-3.jpg",
+        "url":"https://github.com/shineabraham/wrld3d"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Personal Website",
+        "category":"A React based resume website",
+        "image":"website.jpg",
+        "url":"#"
       }
     ]
   }
