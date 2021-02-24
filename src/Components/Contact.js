@@ -74,7 +74,7 @@ class Contact extends Component {
 				   </div>
            </div> */}
 
-                  <div>
+                  <div className='reach-out-div'>
                      <button className="submit" ><a href="mailto:shineabraham101@gmail.com">Reach out</a></button>
                   </div>
             <aside className="four columns footer-widgets">
