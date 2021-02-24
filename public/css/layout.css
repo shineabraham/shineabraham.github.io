@@ -215,7 +215,8 @@ ul#nav li.current a { color: #1E90FF; }
 #about .download .button {
    margin-top: 6px;
    background: #1e90ff70;
-   margin-left: 130px;
+   /* margin-left: 130px; */
+   text-align: center;
 
 }
 #about .download .button:hover {
@@ -515,6 +516,7 @@ ul#nav li.current a { color: #1E90FF; }
 }
 .contact-header{
    color:rgba(255, 255, 255, .7);
+   text-align: center;
 }
 
 /* popup modal */
