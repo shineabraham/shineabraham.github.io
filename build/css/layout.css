@@ -878,7 +878,7 @@ call-to-action .button {
    height: auto;
    display: inline-block;
 	border-radius: 0px;
-   margin-left: 42%;
+   margin-left: 50%;
 }
 #contact button.submit:hover {
 	color: #0D0D0D;
