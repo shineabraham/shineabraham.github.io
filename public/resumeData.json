@@ -71,7 +71,7 @@
         "years":"July 2019 - Present",
         "description":"Built the product Flux from scratch and scaled it from early MVP to production grade. Flux is one among the four products of the company which uses surveillance cameras to track people at venues and identify their movement pattern. It helps to show insights about the people visiting the venue. Built using Python and AWS. It identifies humans from images/stream received from the surveillance cameras.",
         "description1":"Built and integrated people counting cameras to identify flow of people in crowded venues like malls, exhibition centers, office spaces. The dashboard view gives insight of the flow of people and live people count in and out of the venue.",
-        "description2":"Simulated, deployed and integrated Real time location system to track people in venues with nearly 15cm accuracy.",
+        "description2":"Simulated, deployed and integrated Real time location system to track people in venues using BLE devices. This enabled tracking of visitors at 15cm accuracy and at a very high resolution.",
         "description3":"Built core functionality of tracking vehicles using GPS devices to track vehicles in a fleet and see them live in our dashboard. Integrated GPS tracking, speed and fuel efficiency monitoring, and other basic alerts to manage fleet of vehicles.",
         "description4":"Built and integrated a chatbot to AGREEQ ( Agreefy Queue management system ) so as to enable an easy conversational booking system in websites or mobile apps. Developed the chatbot using opensource chatbot.",
         "description5":"Handled integrations of our product TRACKX with SAP and Oracle EBS enabling easy integrations for clients using SAP or EBS for employee/asset management.",
