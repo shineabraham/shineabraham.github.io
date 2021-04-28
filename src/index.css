@@ -6,6 +6,22 @@
   margin: 0 0 24px;
 }
 
+@media only screen and (max-width: 600px) {
+  .blog-wrapper {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 24px;
+  }
+  .blog-wrapper iframe {
+    width: 90% !important;
+  }
+
+  .blog-wrapper iframe:first-child {
+    margin-bottom: 24px;
+  }
+}
+
 .blog-wrapper iframe {
   border-radius: 8px;
 }
