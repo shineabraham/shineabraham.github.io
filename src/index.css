@@ -11,7 +11,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 0 auto 24px;
+    margin: 0 auto;
   }
   .blog-wrapper iframe {
     width: 90% !important;
