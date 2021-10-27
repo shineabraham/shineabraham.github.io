@@ -1,0 +1,41 @@
+.blog-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  margin: 0 0 24px;
+}
+
+@media only screen and (max-width: 600px) {
+  .blog-wrapper {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .blog-wrapper iframe {
+    width: 90% !important;
+  }
+
+  .blog-wrapper iframe:first-child {
+    margin-bottom: 24px;
+  }
+}
+
+.blog-wrapper iframe {
+  border-radius: 8px;
+}
+
+#blog {
+  background: #ebeeee;
+  padding-top: 24px;
+  padding-bottom: 48px;
+}
+#blog h1 {
+  font: 15px/24px "opensans-semibold", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-bottom: 48px;
+  color: #95a3a3;
+}
