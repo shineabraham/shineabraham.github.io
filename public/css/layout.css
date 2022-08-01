@@ -249,7 +249,7 @@ ul#nav li.current a {
 .contact-details--wrapper {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: start;
   align-items: flex-start;
 }
 
